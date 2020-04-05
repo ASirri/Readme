@@ -1,9 +1,9 @@
 #9/E FİZİK YEMEK TARİFİ VE VÜCUT KÜTLE İNDEKSİ
 **Recipe**
-*put oil in the stove and wait for it to warm up
-*cut the potatoes and  and throw it into oil 
-*You can optionally add some salt after cutting the potatoes
-*Bon appetit
+* put oil in the stove and wait for it to warm up
+* cut the potatoes and  and throw it into oil 
+* You can optionally add some salt after cutting the potatoes
+* Bon appetit
 100 gr 311.9 kcal
 | Body  | Mass   | İndex |
 | ------------- |:-------------:| -----:|
