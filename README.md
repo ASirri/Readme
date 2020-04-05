@@ -5,6 +5,7 @@
 * You can optionally add some salt after cutting the potatoes
 * Bon appetit
 100 gr 311.9 kcal
+
 | Body  | Mass   | İndex |
 | ------------- |:-------------:| -----:|
 | Mas     | divided | height length x height Length(m^2) |
